@@ -1,3 +1,4 @@
+![logo](https://github.com/pritom108/pritom108/blob/main/linkedin_cover.png)
 <h1 align="center">Hi 👋, I'm Pritom Karmoker</h1>
 <h3 align="center">AI enthusiast learning Generative AI, LLMs, and agent workflows.</h3>
 
